@@ -25,7 +25,6 @@ async function setURL(url) {
         "method": "PATCH",
         "mode": "cors"
     });
-    console.log(x);
     return
 }
 
@@ -113,5 +112,5 @@ client.on("guildUpdate", async (oldGuild, newGuild) => {
     }
 });
 
-client.login("");
+client.login("TOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKEN");
 tryGettingURL()
