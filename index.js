@@ -59,4 +59,5 @@ client.on("guildUpdate", async (newGuild) => {
     }
 });
 
-client.login("");
+client.login("TOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKENTOKEN");
+tryGettingURL()
